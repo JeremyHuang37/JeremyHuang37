@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m an iOS developer
-- 📚 I'm currently learning Rust and  C++
+- 📚 I'm currently learning Kotlin and  C++
 - 🌱 Another GitHub account: [hzsss](https://github.com/hzsss)
 - 👯 My blog: [Jeremy](https://www.notion.so/jeremyhuang/Jeremy-6bd9b368d6dc48a9ab0a00b75f63bcec)
 - 📫 How to reach me: redpaperfan@gmail.com
